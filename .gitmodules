@@ -1,0 +1,6 @@
+[submodule "digital-monument-api"]
+	path = digital-monument-api
+	url = https://github.com/erksery/digital-monument-api.git
+[submodule "digital-monument-client"]
+	path = digital-monument-client
+	url = https://github.com/erksery/digital-monument-client.git
