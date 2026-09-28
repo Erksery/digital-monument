@@ -40,6 +40,9 @@ services:
       postgres:
         condition: service_healthy
 
+    ports:
+      - "5555:5555"
+
   client:
     image: erksery/digital-monument-client:latest
 
